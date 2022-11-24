@@ -20,4 +20,4 @@ the client is notified about this.
 ## How does it work? (Technology stack)
 
 Our application has a simple registration. For example, a client buys products in a non-cash (mobile) way, after that he uses the application to leave the seller's geodata with a comment. After the data is transferred to the responsible persons and accepted for work, the client is notified about this. The more such comments,
-the less the entrepreneur's reputation becomes. To do this, we use programs such as Figma, Canvas, Procreate (design), JavaScript, Python, CSS, HTML, VS Code (development)
+the less the entrepreneur's reputation becomes. To do this, we use programs such as Figma, Canva, Procreate (design), JavaScript, Python, CSS, HTML, VS Code (development)
