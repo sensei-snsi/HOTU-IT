@@ -10,7 +10,7 @@ _Read this in other languages: [Russian](README.md)_
 
 ## our team
 
-The team name is HOTU IT. WE chose this name because Tomponsky district is located in the northern part of our vast Republic of Sakha (Yakutia) ;). Manager - Burtseva Naryyana, Designers - Semyonova Aitalina, Popova Karina, Apollonov Maxim, developer - Gabyshev David
+The team name is HOTU IT. WE chose this name because Tomponsky district is located in the northern part of our vast Republic of Sakha (Yakutia) ;). Manager - Burtseva Naryyana, Designer - Maxim Apollonov, Developer - David Gabyshev
 
 ## Who is it for?
 
